@@ -1,9 +1,5 @@
-Cuarto intento
+Otro intento
 
 de la tarea de 
 
-el cursito de git
-
-y va a funcionar
-
-funcionó
+el curso de git
