@@ -2,8 +2,6 @@ Cuarto intento
 
 de la tarea de 
 
-el curso de git
+el cursito de git
 
-funcionó 
-
-hasta ahora
+y va a funcionar
